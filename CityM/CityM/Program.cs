@@ -13,7 +13,7 @@ namespace CityM
         [STAThread]
         static void Main()
         {
-            using (var game = new Game1())
+            using (var game = new CityM())
                 game.Run();
         }
     }
