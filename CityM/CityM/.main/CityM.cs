@@ -10,7 +10,7 @@ namespace CityM {
 
     // Member Variables:
     GraphicsDeviceManager graphics;
-    SpriteBatch spriteBatch;
+    public SpriteBatch spriteBatch;
 
     // Dictionaries for easy access to assets:
     public Dictionary<CityConstants.backgrounds, Texture2D> backgrounds = new Dictionary<CityConstants.backgrounds, Texture2D>();

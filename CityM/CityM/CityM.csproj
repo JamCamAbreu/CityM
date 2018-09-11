@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include=".main\CityConstants.cs" />
     <Compile Include=".main\CityM.cs" />
+    <Compile Include=".main\InputManager.cs" />
     <Compile Include=".main\State.cs" />
     <Compile Include=".main\StateManager.cs" />
     <Compile Include="Program.cs" />
